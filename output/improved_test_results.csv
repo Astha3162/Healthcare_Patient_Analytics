@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1_Score,ROC_AUC,Confusion_Matrix
+Logistic Regression,0.4526,0.1332,0.7361,0.2255,0.5965,"[[248, 345], [19, 53]]"
+Random Forest,0.6406,0.0927,0.2639,0.1372,0.5691,"[[407, 186], [53, 19]]"
+XGBoost,0.7985,0.1026,0.1111,0.1067,0.5753,"[[523, 70], [64, 8]]"
